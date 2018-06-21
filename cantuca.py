@@ -10,3 +10,4 @@ def cantuca(nparticipantes):
 		 print("será que venden la boteela por partes?")
 	else:
 		print("pta que sad")
+#cantuca(3)
